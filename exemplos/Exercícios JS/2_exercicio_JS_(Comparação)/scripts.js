@@ -14,4 +14,6 @@ document.write('__________________________________________________________<br><b
 document.write('2º Exemplo: <br><br>');
 
 // Digite a resolução do 2º exemplo aqui e visualize o resultado no navegador
-document.write('1º Exemplo: <br><br>');
+document.write('4 <=5 || "Sergio Perez == Checo');
+document.write('<br> Resultado:')
+document.write('4 <=5 || "Sergio Perez == Checo');

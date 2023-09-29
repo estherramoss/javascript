@@ -5,6 +5,11 @@ let carroFerrari = {
 
     
 // Escreva as propriedades do objeto aqui
+modelo: 'peugeot 208',
+ano: 2023,
+cor: 'Preto',
+potencia:' 130 cv a 5.750',
+preco: 62.990,
 
 
 };
